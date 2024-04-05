@@ -1,0 +1,1 @@
+To start application you press the clear button which will remove all the extra text and you should add the a age where it says enter age and than press the generate button which should generate the age the historical icon
